@@ -6,5 +6,5 @@ welcome to kitchen
 
 items
 chciken
-
+beans
 
